@@ -13,3 +13,5 @@ while True:
         file.write(str(now)+","+str(i)+","+str(-i)+","+str(i-10)+","+str(i+5)+","+str(i*i)+"\n")
         file.flush()
         time.sleep(5)
+        
+        
